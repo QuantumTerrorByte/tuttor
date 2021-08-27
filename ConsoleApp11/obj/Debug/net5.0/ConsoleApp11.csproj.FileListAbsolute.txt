@@ -1,0 +1,16 @@
+D:\sharp\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.exe
+D:\sharp\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.deps.json
+D:\sharp\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.runtimeconfig.json
+D:\sharp\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.runtimeconfig.dev.json
+D:\sharp\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.dll
+D:\sharp\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ref\ConsoleApp11.dll
+D:\sharp\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.pdb
+D:\sharp\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.csproj.AssemblyReference.cache
+D:\sharp\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\sharp\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.AssemblyInfoInputs.cache
+D:\sharp\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.AssemblyInfo.cs
+D:\sharp\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\sharp\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.dll
+D:\sharp\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ref\ConsoleApp11.dll
+D:\sharp\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.pdb
+D:\sharp\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.genruntimeconfig.cache
